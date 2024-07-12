@@ -1,4 +1,7 @@
-## Oh hi! Welcome to my Github profile :3
+![image](https://github.com/user-attachments/assets/24c4a640-e353-4edb-b1e5-c811833d652c)
+
+## Hi! I'm [Cuong](https://www.linkedin.com/in/huynh-cuong-0076832a3/), a Software Engineer student based in Vietnam :3
+
 
 <!--
 **cuongh1799/cuongh1799** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
