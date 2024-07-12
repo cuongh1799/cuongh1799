@@ -1,6 +1,9 @@
-![42424242](https://github.com/user-attachments/assets/ac16eb2e-a526-4bbf-9417-f66fb6b33437)
+![1657796191492](https://github.com/user-attachments/assets/e1887695-3c09-413f-9f7c-00d557a7aae0)
 
-## Hi! I'm [Cuong](https://www.linkedin.com/in/huynh-cuong-0076832a3/), a Software Engineer student based in Vietnam :3
+
+## Hi! I'm [Cuong](https://www.linkedin.com/in/huynh-cuong-0076832a3/), a Software Engineer student based in Vietnam!
+
+Don't forget to check out my [Portfolio website](https://my-dev-portfolio-sand.vercel.app/) (I worked very hard on it)
 
 
 <!--
