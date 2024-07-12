@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/24c4a640-e353-4edb-b1e5-c811833d652c)
+![image](https://github.com/user-attachments/assets/24c4a640-e353-4edb-b1e5-c811833d652c | width=100)
 
 ## Hi! I'm [Cuong](https://www.linkedin.com/in/huynh-cuong-0076832a3/), a Software Engineer student based in Vietnam :3
 
