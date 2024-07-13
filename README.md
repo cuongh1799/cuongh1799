@@ -5,7 +5,7 @@
 
 Don't forget to check out my [Portfolio website](https://my-dev-portfolio-sand.vercel.app/) (I worked very hard on it)
 
-I'm currently working my best on [WuWaWiki](https://github.com/cuongh1799/WuWaWiki), specifically a new backend system because the old code is miserable. You can check the progress by clicking on the [`new-backend-system` branch](https://github.com/cuongh1799/WuWaWiki/tree/new-backend-system)
+I'm currently working my best on [WuWaWiki](https://github.com/cuongh1799/WuWaWiki), specifically a new backend system because the old code is miserable. You can check the progress by clicking on the `new-backend-system` [branch](https://github.com/cuongh1799/WuWaWiki/tree/new-backend-system)
 
 
 <!--
