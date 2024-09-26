@@ -5,8 +5,6 @@
 
 Don't forget to check out my [Portfolio website](https://my-dev-portfolio-sand.vercel.app/) (I worked very hard on it)
 
-I'm currently working my best on [WuWaWiki-ReactJs](https://github.com/cuongh1799/WuWaWiki-ReactJs), which is a ported version of WuWa Wiki but on ReactJS. It is expected to have better UI, more functionalities and one of my ways to improve my web developement skills!
-
 ## Programming languages, Frameworks and Tools
 
 <img align="left" alt="Java" width="70px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
