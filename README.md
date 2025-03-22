@@ -3,7 +3,7 @@
 
 ## Hi! I'm [Cuong](https://www.linkedin.com/in/huynh-cuong-0076832a3/), a Software Engineer student based in Vietnam!
 
-Don't forget to check out my [Portfolio website](https://my-dev-portfolio-sand.vercel.app/) (I worked very hard on it)
+Don't forget to check out my [Portfolio website](https://my-dev-portfolio-sand.vercel.app/)
 
 ## Programming languages, Frameworks and Tools
 
