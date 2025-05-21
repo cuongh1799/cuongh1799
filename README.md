@@ -1,5 +1,3 @@
-![peak](https://github.com/user-attachments/assets/0f5e9603-61be-4b8d-9e2c-4bb934b33c64)
-
 ## Hi! I'm [Cuong](https://www.linkedin.com/in/huynh-cuong-0076832a3/), a Software Engineer student based in Vietnam!
 
 Don't forget to check out my [Portfolio website](https://my-dev-portfolio-sand.vercel.app/)
