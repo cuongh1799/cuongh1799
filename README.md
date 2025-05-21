@@ -1,5 +1,4 @@
-![1657796191492](https://github.com/user-attachments/assets/e1887695-3c09-413f-9f7c-00d557a7aae0)
-
+![peak](https://github.com/user-attachments/assets/0f5e9603-61be-4b8d-9e2c-4bb934b33c64)
 
 ## Hi! I'm [Cuong](https://www.linkedin.com/in/huynh-cuong-0076832a3/), a Software Engineer student based in Vietnam!
 
