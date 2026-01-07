@@ -1,7 +1,5 @@
 ## Hi! I'm [Cuong](https://www.linkedin.com/in/huynh-cuong-0076832a3/), a Software Engineer student based in Vietnam!
 
-Don't forget to check out my [Portfolio website](https://my-dev-portfolio-sand.vercel.app/)
-
 ## Programming languages, Frameworks and Tools
 
 <img align="left" alt="Java" width="70px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
